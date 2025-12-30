@@ -114,7 +114,6 @@ media/
 ## 🖼️ Media Showcase
 
 ### 🎼 Audio & MIDI Files
-> Original audio and generated MIDI file
 
 🔊 **Original Anthem (MP3)**  
 [Listen / Download](sound/egypt.mp3)
@@ -123,12 +122,10 @@ media/
 [Download MIDI](sound/egypt.mid)
 
 ### 🧠 Data Extraction Visualization
-> Add screenshots of Python script output or plots here
 
 ![Note Timing Visualization](image/notes.png)
 
 ### 🔊 Hardware Output Demo
-> Add videos of the ATmega32A playing the anthem
 
 [Watch the hardware demo](video/IMG_4576.MOV)
 ---

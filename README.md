@@ -54,8 +54,6 @@ The original anthem audio is converted into a MIDI file containing:
 - Note pitch
 - Timing information
 
-> This step transforms raw audio into structured musical data.
-
 ### ➤ MIDI Parsing Script
 A Python script parses the MIDI file and extracts:
 - Note frequencies
